@@ -1,0 +1,63 @@
+[submodule "packages/spec-focus"]
+	path = packages/spec-focus
+	url = https://github.com/specfocus/spec-focus.git
+[submodule "packages/view-focus"]
+	path = packages/view-focus
+	url = https://github.com/specfocus/view-focus.git
+[submodule "packages/view-focus.mui"]
+	path = packages/view-focus.mui
+	url = https://github.com/specfocus/view-focus.mui.git
+[submodule "packages/view-focus.navigation"]
+	path = packages/view-focus.navigation
+	url = https://github.com/specfocus/view-focus.navigation.git
+[submodule "packages/next-focus"]
+	path = packages/next-focus
+	url = https://github.com/specfocus/next-focus.git
+[submodule "packages/next-focus.mui"]
+	path = packages/next-focus.mui
+	url = https://github.com/specfocus/next-focus.mui.git
+[submodule "packages/view-focus.i18next"]
+	path = packages/view-focus.i18next
+	url = https://github.com/specfocus/view-focus.i18next.git
+[submodule "packages/view-focus.i18n"]
+	path = packages/view-focus.i18n
+	url = https://github.com/specfocus/view-focus.i18n.git
+[submodule "packages/view-focus.navigation.dom.next"]
+	path = packages/view-focus.navigation.dom.next
+	url = https://github.com/specfocus/view-focus.navigation.dom.next.git
+[submodule "packages/view-focus.data"]
+	path = packages/view-focus.data
+	url = https://github.com/specfocus/view-focus.data.git
+[submodule "packages/view-focus.data.local-storage"]
+	path = packages/view-focus.data.local-storage
+	url = https://github.com/specfocus/view-focus.data.local-storage.git
+[submodule "packages/view-focus.data.grids"]
+	path = packages/view-focus.data.grids
+	url = https://github.com/specfocus/view-focus.data.grids.git
+[submodule "packages/view-focus.data.forms"]
+	path = packages/view-focus.data.forms
+	url = https://github.com/specfocus/view-focus.data.forms.git
+[submodule "packages/view-focus.data.graphql"]
+	path = packages/view-focus.data.graphql
+	url = https://github.com/specfocus/view-focus.data.graphql.git
+[submodule "packages/data-focus.uom"]
+	path = packages/data-focus.uom
+	url = https://github.com/specfocus/data-focus.uom.git
+[submodule "packages/data-focus.specs"]
+	path = packages/data-focus.specs
+	url = https://github.com/specfocus/data-focus.specs.git
+[submodule "packages/view-focus.data.forms.mui"]
+	path = packages/view-focus.data.forms.mui
+	url = https://github.com/specfocus/view-focus.data.forms.mui.git
+[submodule "packages/spec-focus.ioc"]
+	path = packages/spec-focus.ioc
+	url = https://github.com/specfocus/spec-focus.ioc.git
+[submodule "packages/data-focus.specs.graphql"]
+	path = packages/data-focus.specs.graphql
+	url = https://github.com/specfocus/data-focus.specs.graphql.git
+[submodule "packages/data-focus.specs.prisma"]
+	path = packages/data-focus.specs.prisma
+	url = https://github.com/specfocus/data-focus.specs.prisma.git
+[submodule "packages/data-focus.specs.typescript"]
+	path = packages/data-focus.specs.typescript
+	url = https://github.com/specfocus/data-focus.specs.typescript.git
